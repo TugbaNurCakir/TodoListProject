@@ -12,6 +12,7 @@
 <li class="has-line-data" data-line-start="14" data-line-end="15">Swagger</li>
 <li class="has-line-data" data-line-start="15" data-line-end="16">Maven</li>
 <li class="has-line-data" data-line-start="16" data-line-end="17">HTML, CSS</li>
+  <li class="has-line-data" data-line-start="16" data-line-end="17">Heroku</li>
 <li class="has-line-data" data-line-start="18" data-line-end="19">One many-to-many relationship (user between own todos)</li>
 </ul>
 
